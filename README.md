@@ -1,2 +1,18 @@
-# tg-flower-shop-mini-app
-Flower Shop Telegram Mini App. Created with React.js + TypeScript + TailwindCSS + Vite
+# Telegram Flower-Shop Mini App
+
+Telegram Mini App
+
+## Install
+```sh
+npm install
+```
+
+## Dev
+```sh
+npm run dev
+```
+
+## Prod
+```sh
+npm run build
+```
